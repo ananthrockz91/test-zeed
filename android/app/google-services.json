@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283351177192",
+    "project_id": "zeed-ad45b",
+    "storage_bucket": "zeed-ad45b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283351177192:android:980779d9b11295f21b765d",
+        "android_client_info": {
+          "package_name": "com.example.zeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283351177192-o3n36sug55620b5mge2vlmu0m0gqf1fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOoNoF0TnZpEPp9zt9nq0glq2_PR4xLRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283351177192-o3n36sug55620b5mge2vlmu0m0gqf1fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
